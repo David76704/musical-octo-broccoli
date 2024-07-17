@@ -2,5 +2,5 @@
   <P>
   Tigre  
   </p>
-  <img src="https:tigre3.jpg"/ >
+  <img src="tigre3.jpg"/ >
 </html>
